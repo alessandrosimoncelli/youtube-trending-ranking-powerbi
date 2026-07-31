@@ -57,7 +57,7 @@ The full rationale behind each transformation is documented in the methodology r
 
 | File | Description |
 |---|---|
-| `YouTube_Ranking_Dashboard_Canada.pbix` | The Power BI file itself: data model, all DAX measures, and both dashboard pages. Open this in Power BI Desktop to explore or edit the ranking logic directly |
+| `YouTube_Ranking_Dashboard_Canada-2.pbix` | The Power BI file itself: data model, all DAX measures, and both dashboard pages. Open this in Power BI Desktop to explore or edit the ranking logic directly |
 | `YoutubeRanking_Step-by-Step_Methodology_Guide.pdf` | Written report covering the ETL process, the comparison of all four normalization methods, the reasoning behind every weight in the ranking formula, a walkthrough of the dashboard, and the final insights drawn from the data |
 | `README.md` | This file, a short overview of the project for anyone browsing the repo |
 
